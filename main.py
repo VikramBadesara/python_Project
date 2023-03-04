@@ -72,4 +72,3 @@ print(f'\n\nall about dictionaries')
 marks = {'Viky': 88, "Pooja": 89, "Sahil": 78}
 print(f'marks of Viky: {marks["Viky"]}')
 
-
